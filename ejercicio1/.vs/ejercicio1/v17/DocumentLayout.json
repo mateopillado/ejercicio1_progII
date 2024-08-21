@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|c:\\users\\mateo\\desktop\\prog ii\\ejercicio1_progii\\ejercicio1_progii\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|solutionrelative:pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|solutionrelative:icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D475F2-A93E-4282-A985-B75E4DFB5AEC}|ejercicio1.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\Cola.cs",
+              "RelativeToolTip": "Cola.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:07:17.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\Pila.cs",
+              "RelativeDocumentMoniker": "Pila.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\Pila.cs",
+              "RelativeToolTip": "Pila.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:10:41.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IColleccion.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\IColleccion.cs",
+              "RelativeDocumentMoniker": "IColleccion.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\IColleccion.cs",
+              "RelativeToolTip": "IColleccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:08:07.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\ejercicio1_progII\\ejercicio1_progII\\ejercicio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:03:02.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
