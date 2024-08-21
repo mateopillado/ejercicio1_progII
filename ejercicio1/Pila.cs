@@ -53,8 +53,10 @@ namespace ejercicio1
         {
             if (!estaVacia())
             {
+
                 object devuelto = Elementos[Contador];
                 Elementos[Contador] = null;
+                contador--;
                 return devuelto;
             }
             else return "Array Vacio";

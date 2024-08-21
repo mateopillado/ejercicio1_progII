@@ -10,6 +10,12 @@ namespace ejercicio1
     {
 
         List<object> elementos;
+
+        public Cola()
+        {
+            elementos = new List<object>();
+        }
+
         public bool anadir(object obj)
         {
             elementos.Add(obj);

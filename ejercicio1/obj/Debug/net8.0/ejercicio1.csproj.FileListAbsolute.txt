@@ -12,3 +12,4 @@ C:\Users\Mateo\Desktop\Prog II\ejercicio1_progII\ejercicio1_progII\ejercicio1\ob
 C:\Users\Mateo\Desktop\Prog II\ejercicio1_progII\ejercicio1_progII\ejercicio1\obj\Debug\net8.0\ejercicio1.pdb
 C:\Users\Mateo\Desktop\Prog II\ejercicio1_progII\ejercicio1_progII\ejercicio1\obj\Debug\net8.0\ejercicio1.genruntimeconfig.cache
 C:\Users\Mateo\Desktop\Prog II\ejercicio1_progII\ejercicio1_progII\ejercicio1\obj\Debug\net8.0\ref\ejercicio1.dll
+C:\Users\Mateo\Desktop\Prog II\ejercicio1_progII\ejercicio1_progII\ejercicio1\obj\Debug\net8.0\ejercicio1.sourcelink.json
